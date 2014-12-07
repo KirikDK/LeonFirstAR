@@ -2,7 +2,9 @@
 using System.Collections;
 
 public class NewBehaviourScript : MonoBehaviour {
-
+	void Avauke () {
+		
+	}
 	// Use this for initialization
 	void Start () {
 	
